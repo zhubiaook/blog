@@ -1,4 +1,2 @@
-.idea
-*.pyc
-*.swap
-.venv
+.venv/
+a/
